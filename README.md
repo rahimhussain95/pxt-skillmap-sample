@@ -23,7 +23,7 @@ map itself can be found under the top-level heading:
 A skill map consists of one or more "paths", each path being an ordered sequence of activities.
 The first activity in each path is unlocked, and completing an activity unlocks the next one.
 
-A learning path is defined by a level two heading (`##`) has has the following properties:
+A learning path is defined by a level two heading (`##`) and has the following properties:
 
 - `id`: The string after the heading (eg `## interface`). Must be unique within this skill map.
 - `name`: The title of the path, displayed above the linked activities.
